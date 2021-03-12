@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5aa159cf-616e-46ce-a316-29756e33a760" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repo" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hDA8jLftmr12IZj2zZOE9Goy2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/xxx" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.wx" />
+      <recent name="com.lagou.course.controller" />
+      <recent name="com.lagou.course" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa159cf-616e-46ce-a316-29756e33a760" name="Default Changelist" comment="" />
+      <created>1599535131909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599535131909</updated>
+      <workItem from="1599535134825" duration="7360000" />
+      <workItem from="1599617577215" duration="10009000" />
+      <workItem from="1599714316098" duration="7874000" />
+      <workItem from="1599791229363" duration="565000" />
+      <workItem from="1599791838102" duration="15000" />
+      <workItem from="1599791927327" duration="2749000" />
+      <workItem from="1600050361267" duration="3347000" />
+      <workItem from="1600138413594" duration="2020000" />
+      <workItem from="1600222151963" duration="1838000" />
+      <workItem from="1600308604408" duration="1560000" />
+      <workItem from="1600395406815" duration="8830000" />
+      <workItem from="1600655932143" duration="2863000" />
+      <workItem from="1600741972709" duration="18859000" />
+      <workItem from="1600829513623" duration="4295000" />
+      <workItem from="1600914597390" duration="19761000" />
+      <workItem from="1601011402688" duration="1861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1600754580099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="258" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600754580099" />
+    <state width="1876" height="192" key="GridCell.Tab.0.bottom" timestamp="1601016967309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1599560413389" />
+    <state width="1876" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601016967309" />
+    <state width="1876" height="192" key="GridCell.Tab.0.center" timestamp="1601016967309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1599560413389" />
+    <state width="1876" height="192" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601016967309" />
+    <state width="1876" height="192" key="GridCell.Tab.0.left" timestamp="1601016967309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1599560413389" />
+    <state width="1876" height="192" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601016967309" />
+    <state width="1876" height="192" key="GridCell.Tab.0.right" timestamp="1601016967309">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1599560413389" />
+    <state width="1876" height="192" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601016967309" />
+    <state x="540" y="276" key="IDE.errors.dialog" timestamp="1599645299819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="276" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599645299819" />
+    <state x="652" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1599791838851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="652" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599791838851" />
+    <state x="406" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600857759384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="406" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600857759384" />
+  </component>
+</project>

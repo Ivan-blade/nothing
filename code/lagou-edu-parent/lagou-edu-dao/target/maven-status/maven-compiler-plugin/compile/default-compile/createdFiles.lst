@@ -1,0 +1,4 @@
+mapper/CourseCommentDao.class
+mapper/CourseDao.class
+mapper/UserDao.class
+mapper/OrderDao.class
